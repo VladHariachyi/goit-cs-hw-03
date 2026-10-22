@@ -1,0 +1,7 @@
+dnspython==2.9.0
+faker==40.43.0
+psycopg==3.3.6
+psycopg-binary==3.3.6
+pymongo==4.19.0
+python-dotenv==1.2.4
+typing-extensions==4.16.0
